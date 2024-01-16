@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "dma.h": "c",
+        "can.h": "c",
+        "usart.h": "c",
+        "gpio.h": "c"
+    }
+}
