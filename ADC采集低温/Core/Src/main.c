@@ -115,10 +115,11 @@ int main(void)
 	HAL_Delay(2000);
 	
 //	ADC_DMA_Temper_Sample();	
-//	HAL_Delay(5000);
+	HAL_Delay(5000);
 
-//	HAL_Delay(4000);	
-		
+	HAL_Delay(4000);	
+			HAL_Delay(4000);		
+		HAL_Delay(4000);	
 		GetTemperature();
 		HAL_Delay(1000);	
 //		Display_Temper();
